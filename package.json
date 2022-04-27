@@ -9,6 +9,9 @@
   },
   "dependencies": {
     "core-js": "^3.8.3",
+    "luxon": "^2.3.2",
+    "react": "^18.1.0",
+    "react-dom": "^18.1.0",
     "vue": "^3.2.13"
   },
   "devDependencies": {
@@ -36,7 +39,9 @@
     "parserOptions": {
       "parser": "@babel/eslint-parser"
     },
-    "rules": {}
+    "rules": {
+      "no-unused-vars": "off"
+    }
   },
   "browserslist": [
     "> 1%",
