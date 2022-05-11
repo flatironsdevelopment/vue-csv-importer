@@ -1,4 +1,7 @@
-# fuse-ts-vue
+# Flatirons Fuse Vue Example
+
+This is a sample React project for [Flatirons Fuse](https://flatironsdevelopment.com/products/fuse/).
+The full documentation for Fuse can be [found here](https://fuse-docs.flatironsdevelopment.com/).
 
 ## Project setup
 
